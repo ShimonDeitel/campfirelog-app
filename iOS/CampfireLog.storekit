@@ -1,0 +1,28 @@
+{
+  "identifier" : "CampfireLog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "campfirelog_pro",
+      "localizations" : [
+        {
+          "description" : "Gear checklist per trip and photo gallery per site",
+          "displayName" : "Campfire Log Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "campfirelog_pro",
+      "referenceName" : "Campfire Log Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
